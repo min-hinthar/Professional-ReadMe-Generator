@@ -1,48 +1,57 @@
-# Professional-ReadMe-Generator
 
-For Module 9 Challenge, I have been tasked to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+  
+  # Project Title [README.md Generator]
 
+-----
 
-## User Story
+  ## Table of Contents
+    1. [Description](#description)
+    2. [Installation](#installation)
+    3. [Usage](#usage)
+    4. [Contributing](#contributing)
+    5. [Tests](#tests)
+    6. [License](#license)
+    7. [Questions](#questions)
 
-AS A developer
+-----
 
-I WANT a README generator
+### Description 
+Generate a README.md file using inquirer prompt 
 
-SO THAT I can quickly create a professional README for a new project
+-----
 
-```
+### Installation 
+inquirer, node.js
 
-## Acceptance Criteria
+-----
 
-GIVEN a command-line application that accepts user input
+### Usage 
+Helps a developer develop a README.md file conveniently 
 
-WHEN I am prompted for information about my application repository
+-----
 
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+### Contributing 
+YES 
 
-WHEN I enter my project title
+-----
 
-THEN this is displayed as the title of the README
+### Tests 
+npm test 
 
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+-----
 
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+### License 
+MIT 
 
-WHEN I choose a license for my application from a list of options
+-----
 
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+### Questions 
 
-WHEN I enter my GitHub username
+#### GitHub Username: min-hinthar 
 
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+#### GitHub URL: github.com/min-hinthar
 
-WHEN I enter my email address
+#### Email: min@email.com
 
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+-----
 
-WHEN I click on the links in the Table of Contents
-
-THEN I am taken to the corresponding section of the README
-
-```
