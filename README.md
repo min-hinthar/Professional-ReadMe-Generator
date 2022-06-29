@@ -2,7 +2,8 @@
   
   # Project Title [README.md Generator]
 
-[!WalkThrough of ReadME Generator](https://drive.google.com/file/d/1WFwAg0lsMgNwPLq17F-d1n0cz7X5AhDY/view?usp=sharing)
+[WalkThrough Video of ReadME Generator] 
+[https://drive.google.com/file/d/1WFwAg0lsMgNwPLq17F-d1n0cz7X5AhDY/view?usp=sharing]
 
 -----
 
