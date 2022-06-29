@@ -2,7 +2,7 @@
   
   # Project Title [README.md Generator]
 
-https://drive.google.com/file/d/1WFwAg0lsMgNwPLq17F-d1n0cz7X5AhDY/view?usp=sharing
+[!WalkThrough of ReadME Generator](https://drive.google.com/file/d/1WFwAg0lsMgNwPLq17F-d1n0cz7X5AhDY/view?usp=sharing)
 
 -----
 
@@ -49,11 +49,11 @@ MIT
 
 ### Questions 
 
-#### GitHub Username: min-hinthar 
+#### GitHub Username: min-hinthar https://github.com/min-hinthar
 
 #### GitHub URL: github.com/min-hinthar
 
-#### Email: min@email.com
+#### Email: min@hintharinc.com
 
 -----
 
