@@ -1,29 +1,26 @@
 
-  
-  # Project Title [README.md Generator]
 
-[WalkThrough Video of ReadME Generator] 
-[https://drive.google.com/file/d/1WFwAg0lsMgNwPLq17F-d1n0cz7X5AhDY/view?usp=sharing]
-
+# Project Title [ReadMe.md Generator]
+![License Badges](https://img.shields.io/badge/LICENSE-MIT-blue)
 -----
 
-  ## Table of Contents
-    1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [Contributing](#contributing)
-    5. [Tests](#tests)
-    6. [License](#license)
-    7. [Questions](#questions)
+## Table of Contents
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [License](#license)
+7. [Questions](#questions)
 
 -----
 
 ### Description 
-Generate a README.md file using inquirer prompt 
+Generate a README.md file using inquirer prompt  
 
 -----
 
-  ### Installation 
+### Installation 
 inquirer, node.js
 
 -----
@@ -50,7 +47,7 @@ MIT
 
 ### Questions 
 
-#### GitHub Username: min-hinthar https://github.com/min-hinthar
+#### GitHub Username: min-hinthar 
 
 #### GitHub URL: github.com/min-hinthar
 
