@@ -78,6 +78,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
+    // require fs to write the input data to file name and return success or error 
     fs.writeFile(fileName, data, function(err) {
         console.log(fileName);
         console.log(data);
@@ -91,8 +92,10 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
+    // require inquirer to push prompts of questions in questions array
     inquirer.prompt(questions)
         .then((data) => {
+            // write the data into the markdown file using generateMarkdown function and name it as README.md 
             writeToFile('README.md', generateMarkdown(data));
             console.log(data)
         })
